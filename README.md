@@ -1,14 +1,9 @@
 gcdproject
 ==========
 
-Getting and Cleaning Data Project
+Getting and Cleaning Data Project     
+For the July 2014 Course
 
----
-title: "README"
-author: "cyberspacecpa"
-date: "Tuesday, July 24, 2014"
-output: html_document
----
 
 ### Begin README File
 
