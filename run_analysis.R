@@ -28,7 +28,7 @@ vlab <- gsub("\\(","",vlab) # Remove opened parenthesis
 vlab <- gsub("\\)","",vlab) # Remove closed parenthesis
 vlab <- gsub("\\-","",vlab) # Remove dash
 vlab <- gsub("^t","avgTime",vlab) # set prefix 1 avgTime
-vlab <- gsub("^f","avgFreq",vlab) # set prefix 2 avgFrequency
+vlab <- gsub("^f","avgFreq",vlab) # set prefix 2 avgFreq
 vlab <- gsub("meanF","MeanF",vlab)# Differentiate MeanFreq from mean
 vlab <- gsub("BodyBody","Body",vlab) # Remove duplication
 
