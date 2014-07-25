@@ -42,7 +42,7 @@ names(cvar) <- vlab
 rm(dtrain)
 rm(dtest)
 
-# Select relevant variables using column names
+# Extract relevant variables using column names (Requirement 2)
 
 cvar <- cvar[, grep("mean|std", names(cvar))]
 
