@@ -69,8 +69,8 @@ Abbreviations:
     
     
 ### Seq | Old Label         | New Label  |   Units of Measure      
-:-----|---------------------------|------------------------------|-----------------------------:    
- 1    | tBodyAcc-mean()-X | avgTimeBodyAccmeanX                  | standard gravity units - g                               
+------|---------------------------|------------------------------|------------------------------    
+ 1    | tBodyAcc-mean()-X | avgTimeBodyAccmeanX                  | standard gravity units - g                              
  2    | tBodyAcc-mean()-Y | avgTimeBodyAccmeanY                  | standard gravity units - g     
  3    | tBodyAcc-mean()-Z | avgTimeBodyAccmeanZ                  | standard gravity units - g                               
  4    | tBodyAcc-std()-X | avgTimeBodyAccstdX                    | standard gravity units - g                            
