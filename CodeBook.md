@@ -45,7 +45,7 @@ Transformations: Old numeric values of 1-6 were used to generate new descriptive
 ### Computed Variables     
 
 Type: Numeric     
-Old Values: normalized, detailed descriptive statistics (e.g., minimum, maximum, mean, standard deviation skewness, kurtosis, etc)           
+Old Values: normalized, detailed descriptive statistics (e.g., minimum, maximum, mean, standard deviation skewness, etc)           
 New Values: normalized, summary descriptive statistics (i.e., average means and standard deviations only)     
 Units of Measure: See Below     
 Old Labels: See Below     
@@ -136,5 +136,3 @@ Abbreviations:
  64   | fBodyBodyGyroMag-std() | avgFreqBodyGyroMagstd           | radians/second     
  65   | fBodyBodyGyroJerkMag-mean()| avgFreqBodyGyroJerkMagmean  | radians/second         
  66   | fBodyBodyGyroJerkMag-std() | avgFreqBodyGyroJerkMagstd   | radians/second       
-
-
