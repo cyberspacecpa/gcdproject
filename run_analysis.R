@@ -86,7 +86,7 @@ rownames(sdata)=NULL # remove rownames and values added when sorting the data
 library(reshape2)
 
 sdataMelt <- melt(sdata, id=c("Subject","Activity"),
-                  measure.vars=names(cvar))## do not include Subject and Activity variables # (Req 2)
+                  measure.vars=names(cvar))## do not include Subject and Activity variables # (Reqirement 2)
 
 ### Create DataSet Containing the averages for each variable in each activity for each subject
 
