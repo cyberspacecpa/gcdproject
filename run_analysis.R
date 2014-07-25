@@ -1,7 +1,7 @@
 #### Please read the README File for more details about this R-script
 #### Please read the CodeBook for the tidy data variables definitions
 
-### Working Directory Structure: Drive:/Main Dir/JHU R Getting and Cleaning Data/UCI HAR Dataset
+### Working Directory Path: Drive:/Main Dir/JHU R Getting and Cleaning Data/UCI HAR Dataset
 
 #  Course Project Script
 
