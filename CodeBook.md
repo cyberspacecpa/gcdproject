@@ -69,7 +69,7 @@ Abbreviations:
     
     
 ### Seq | Old Label         | New Label  |   Units of Measure      
-------|---------------------------|------------------------------|---------------------------    
+------|---------------------------|------------------------------|-------------------    
  1    | tBodyAcc-mean()-X | avgTimeBodyAccmeanX                  | standard gravity units - g                               
  2    | tBodyAcc-mean()-Y | avgTimeBodyAccmeanY                  | standard gravity units - g     
  3    | tBodyAcc-mean()-Z | avgTimeBodyAccmeanZ                  | standard gravity units - g                               
@@ -136,9 +136,3 @@ Abbreviations:
  64   | fBodyBodyGyroMag-std() | avgFreqBodyGyroMagstd           | radians/second     
  65   | fBodyBodyGyroJerkMag-mean()| avgFreqBodyGyroJerkMagmean  | radians/second         
  66   | fBodyBodyGyroJerkMag-std() | avgFreqBodyGyroJerkMagstd   | radians/second       
-
-
-     
- 
-
-
