@@ -3,7 +3,7 @@
 
 ### Working Directory Path Structure: Drive:/Main Dir/JHU R Getting and Cleaning Data/UCI HAR Dataset
 
-#  Course Project Script
+#  Course Project Script: run_analysis.R
 
 #### Input
 
