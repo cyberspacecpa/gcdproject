@@ -50,7 +50,7 @@ New Values: normalized, summary descriptive statistics (i.e., average means and 
 Units of Measure: See Below     
 Old Labels: See Below     
 New Labels: See Below     
-Transformations: Descriptive changes to old labels are as follows: 
+Transformations: Descriptive changes to old labels were as follows: 
 
 * begining "t" replaced with "Time"" or beginning "f" replaced with "Freq"      
 * All special characters removed     
