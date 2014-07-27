@@ -63,7 +63,8 @@ Abbreviations:
 * Gyro - Gyroscope measurement of angular velocity     
 * Mag - Magnitude     
 * f - Frequency     
-* t - Time     
+* t - Time 
+* avg - Average     
 * std - Standard Deviation     
      
 
