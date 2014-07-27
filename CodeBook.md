@@ -66,6 +66,12 @@ Abbreviations:
 * t - Time     
 * std - Standard Deviation     
      
+
+**Note:**     
+
+I used an R Markdown Table Format to define the measurement variables below. 
+The table's tabular structure looked find when I Preview the HTML version in R.
+However, in git hub the table's tabular format was not recognized, as depicted below.
     
     
 ### Seq | Old Label         | New Label  |   Units of Measure      
