@@ -36,13 +36,13 @@ Step# 1 Merge/Combine Data Sets:
  
 * Read Variable Labels: features.txt
 
-    + Develop Descriptive Variable Labels **(Req 4)**           
+    + Develop Descriptive Variable Labels **(Reqirement 4)**           
 
 * Combine Descriptive Variable Labels with Trainining and Testing Variables
  
     + Rbind, not Merge, was used to to combine the descriptive variable labels and the Values of the training and testing Variables
 
-    + Variables were extracted using column names **(Req 2)**
+    + Variables were extracted using column names **(Reqirement 2)**
 
 * Read Activity Variables:  y_train.txt and y_test.txt
 
@@ -53,7 +53,7 @@ Step# 1 Merge/Combine Data Sets:
 * Combine Subject Variable Label with Subject Train and Test Variables
 
 
-* Combine Subject, Activity, and Variables **(Req 1)**     
+* Combine Subject, Activity, and Variables **(Reqirement 1)**     
 
     + cbind, not Merge, was used to combined the Subject, Activity, and Variables
  
@@ -63,16 +63,16 @@ Step# 2 Calculate the Average Value for selected Variables within each activity 
 
 * Arrange/Order the merged/combined data set by Subject and Activity within Subject
 
-* Reshape the sorted data to facilitate the average calculations using library(reshape2) **(Req 2)**     
+* Reshape the sorted data to facilitate the average calculations using library(reshape2) **(Reqirement 2)**     
 
-* Create data set containing the averages for selected variable in each activity for each subject **(Req 5)** 
+* Create data set containing the averages for selected variable in each activity for each subject **(Reqirement 5)** 
 
 
 ###----- Output
 
 Step# 3 Create Tidy Data Set
 
-* Assign a Descriptive Name to Each Activity **(Req 3)**
+* Assign a Descriptive Name to Each Activity **(Reqirement 3)**
 
     + Read Activity Descriptions: activity_labels.txt
 
@@ -80,7 +80,7 @@ Step# 3 Create Tidy Data Set
 
     + Replace Activity Number with Descriptive Activity Name
 
-* Write Tidy Data Set **(Req 5)**
+* Write Tidy Data Set **(Reqirement 5)**
 
 * View the Tidy Data Set
 
