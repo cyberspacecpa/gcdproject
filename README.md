@@ -22,7 +22,7 @@ order indicated. Therefore the completion of each requirement **(Req)** is highl
      
 The run_analysis.R script consists of three major parts: Input, Process, Output.
 
-**Input** - Requirement 1, merging of the training and testing data sets, is fulfilled. The rbind and cbind functions, not the merge function, is used to combined the data sets.  Also, note that Requirement 4, labeling the variables with descriptive names, is fulfilled as well. This facilitated the fulfillment of Requirement 2, extracting only the measurements of the mean and standard deviation for each measurement.
+**Input** - Requirement 1, merging of the training and testing data sets, is fulfilled. The rbind and cbind functions, not the merge function, are used to combined the data sets.  Also, note that Requirement 4, labeling the variables with descriptive names, is fulfilled as well. This facilitated the fulfillment of Requirement 2, extracting only the measurements of the mean and standard deviation for each measurement.
 
 **Process** - To avoid including the Subject and Activity variables in my measurement variables, the descriptive variable names used to extract data in the fulfillment of Requirement 2, are also used in the processing of the data.The order function is used to sort the combine dataset; the names function and the descriptive variable labels are used to extract just the mean and standard deviation measurements; the reshape2 library and the melt and dcast functions are used to summarized the combined dataset(i.e., a partial fulfillment of Requirement 5).
 
