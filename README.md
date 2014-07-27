@@ -12,7 +12,7 @@ Course Project Script
 This README File explains the inter-workings of the R-Script "run_anaylsis.R" written in      
 fulfillment of the Getting and Cleaning Data Course Project Requirements outlined below.     
 Please note that all the listed requirements are fulfilled but not necessary in the specific     
-order indicated. Therefore the completion of each requirement **(Req)** is highlighted within the code.     
+order indicated. Therefore the completion of each **Requirement** is highlighted within the code.     
 
      1. Merges the training and test data sets to create one data set     
      2. Extracts only the measurements on the mean and standard deviation for each measurement     
