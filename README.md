@@ -40,9 +40,9 @@ Step# 1 Merge/Combine Data Sets:
 
 * Combine Descriptive Variable Labels with Trainining and Testing Variables
  
-    + Rbind, not Merge, was used to to combine the descriptive variable labels and the Values of the training and testing Variables
+    + Rbind, not Merge, is used to to combine the descriptive variable labels and the Values of the training and testing Variables
 
-    + Variables were extracted using column names **(Reqirement 2)**
+    + Variables are extracted using column names **(Reqirement 2)**
 
 * Read Activity Variables:  y_train.txt and y_test.txt
 
@@ -55,7 +55,7 @@ Step# 1 Merge/Combine Data Sets:
 
 * Combine Subject, Activity, and Variables **(Reqirement 1)**     
 
-    + cbind, not Merge, was used to combined the Subject, Activity, and Variables
+    + cbind, not Merge, is used to combined the Subject, Activity, and Variables
  
 ###----- Process
 
